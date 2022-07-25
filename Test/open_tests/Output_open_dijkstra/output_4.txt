@@ -1,0 +1,23 @@
+Output: 10 9 4 11 7 25 5 18 24 17
+Classifica: 
+graph 10 = 564008
+graph 9 = 567224
+graph 4 = 579577
+graph 11 = 580779
+graph 7 = 585926
+graph 25 = 622517
+graph 5 = 638973
+graph 18 = 641206
+graph 24 = 645304
+graph 17 = 650556
+graph 16 = 657734
+graph 23 = 657902
+graph 21 = 660675
+graph 6 = 669839
+graph 13 = 681849
+graph 12 = 684011
+graph 1 = 732378
+graph 0 = 748003
+graph 2 = 768274
+graph 3 = 775747
+graph 8 = 821548

@@ -1,0 +1,14 @@
+Output: 
+Output: 1 0
+Output: 9 8 7 6 5 4 3 2 1 0
+Classifica: 
+graph 9 = 7244
+graph 8 = 31592
+graph 7 = 49345
+graph 6 = 67904
+graph 5 = 85399
+graph 4 = 110416
+graph 3 = 126947
+graph 2 = 147130
+graph 1 = 164557
+graph 0 = 180217

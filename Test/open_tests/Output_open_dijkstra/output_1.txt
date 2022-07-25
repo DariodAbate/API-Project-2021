@@ -1,0 +1,22 @@
+Output: 15 20 5 23 4 2 1 18 22 12
+Classifica: 
+graph 15 = 0
+graph 20 = 0
+graph 5 = 18601
+graph 23 = 30991
+graph 4 = 36421
+graph 2 = 51594
+graph 1 = 52054
+graph 18 = 69318
+graph 22 = 74734
+graph 12 = 85794
+graph 13 = 86709
+graph 17 = 97689
+graph 3 = 99486
+graph 8 = 110626
+graph 10 = 116641
+graph 0 = 131215
+graph 9 = 156072
+graph 11 = 163949
+graph 7 = 202420
+graph 6 = 205991
