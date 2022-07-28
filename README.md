@@ -65,3 +65,10 @@ The development of this project is part of the algorithms and principles of info
 1. Go to the folder where the source code file is stored
 2. Compile the source code file typing: <code>gcc [program_name].c -o [executable_file_name]</code>
 3. Run the newly compiled program typing: <code>./[executable_file_name]</code>
+
+## Tools used
+- **GCC + Ubuntu** - Development environment
+- **Memcheck, AddressSaniter** - Memory error detector
+- **Massif (Massif-visualizer)** - Allocated  memory visualizer
+- **Callgrind (Kcachegrind)** - Execution time controller
+
