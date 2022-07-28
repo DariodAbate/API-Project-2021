@@ -27,11 +27,6 @@ The development of this project is part of the algorithms and principles of info
         followed by the adjacency matrix of the graph itself, inserted one row at a time,
         with elements separated by commas.
        </p>
-       <p><em>Example</em><br>
-        3,7,42<br>
-        0,7,42<br>
-        7,4,3
-       </p>
     </li>
     <li> 
       <p>
@@ -46,10 +41,34 @@ The development of this project is part of the algorithms and principles of info
   </ul>
 </p>
 
+## Execution
+
+<div>
+  <p>
+    >   3,2<br/>
+    >   AggiungiGrafo<br>
+    >   0,4,3<br/>
+    >   0,2,0<br>
+    >   2,0,0<br>
+    >   AggiungiGrafo<br>
+    >   0,0,2<br/>
+    >   7,0,4<br>
+    >   0,1,0<br>
+    >   AggiungiGrafo<br>
+    >   3,1,8<br/>
+    >   0,0,6<br>
+    >   0,9,0<br>
+    >   TopK<br>
+    >>  0 1
+  </p>
+</div>
+
 ## Compiling the program with GCC
 1. Go to the folder where the source code file is stored
 2. Compile the source code file <code>gcc [program_name].c -o [executable_file_name]</code>
 3. Run the newly compiled program <code>./[executable_file_name]</code>
+
+
 
 
 
