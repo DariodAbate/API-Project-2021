@@ -38,7 +38,7 @@ The development of this project is part of the algorithms and principles of info
       <p>
         The program prints the integer indices of the <em>k</em> graphs having the smallest 
         <em>k</em>values according to the previously described metric. If there are several 
-        graphs with the same score, the first to arrive have priorità.
+        graphs with the same score, the first to arrive have priority.
       </p>
     </li>
   </ul>
