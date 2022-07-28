@@ -5,7 +5,9 @@ The development of this project is part of the algorithms and principles of info
 
 ## Project specification
 
-<p>This project establishes a ranking of a set of weighted direct graphs provided as input. The score attributed to each graph is obtained from the sum of the shortest paths between the initial node and all the other nodes.</p>
+<img src="/assets/graph_image.png" style="width:260px;height:130px;margin-left: 5px;" align="right"></p>
+<p>This project establishes a ranking of a set of weighted direct graphs provided as input. The score attributed to each graph is obtained from the sum of the shortest paths between the initial node and all the other nodes.
+
 
 <p>The program receives two parameters, from the command line, separated by a space:
   <ol>
