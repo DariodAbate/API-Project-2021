@@ -63,5 +63,5 @@ The development of this project is part of the algorithms and principles of info
 
 ## Compiling the program with GCC
 1. Go to the folder where the source code file is stored
-2. Compile the source code file <code>gcc [program_name].c -o [executable_file_name]</code>
-3. Run the newly compiled program <code>./[executable_file_name]</code>
+2. Compile the source code file typing: <code>gcc [program_name].c -o [executable_file_name]</code>
+3. Run the newly compiled program typing: <code>./[executable_file_name]</code>
