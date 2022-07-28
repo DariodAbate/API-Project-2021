@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="assets/styles.css">
 # API Project 
 
 The development of this project is part of the algorithms and principles of informatics course at the Polytechnic University of Milan, and as a final examination, it is necessary for the bachelor's degree in computer engineering. The course was held by prof. Matteo Pradella, Davide Martinenghi and Alessandro Barenghi in the academic year 2020-2021 and the project was automatically evaluated by a proprietary platform of the DEIB (Department of Electronics, Information, Bioengineering) of the Polytechnic University of Milan.<br>
