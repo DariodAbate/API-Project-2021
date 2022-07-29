@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
-
+/*
+Being my first project, the language used is Italian
+*/
 
 typedef struct{ //struttura dati per classifica
   int id;       //identificativo del grafo
